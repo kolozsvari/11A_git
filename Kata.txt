@@ -1,0 +1,3 @@
+Ez egy git tanulós repository.
+Mindenki töltsön fel a saját neve néven egy legalább egy mondatnyi szöveget tartalmazó dokumentumot!
+Ne felejtsétek el "lehúzni" a repo tartalmát, mielőtt "feltoljátok" a saját munkátokat!
